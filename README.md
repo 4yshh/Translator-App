@@ -51,7 +51,24 @@ The app translates the spoken input into the specified language using a chatbot-
 1. Open MIT App Inventor  
 2. Import the `.aia` project file  
 3. Connect an Android device or emulator  
-4. Run the application  
+4. Run the application
+
+## App Testing Methods
+
+This app can be tested using the following methods:
+
+### 1. MIT AI2 Companion (QR Code)
+- Download **MIT AI2 Companion** from Play Store
+- Connect via QR code from MIT App Inventor
+
+### 2. USB Connection
+- Enable USB debugging on Android device
+- Connect phone to PC using USB cable
+- Use **Connect → USB** in MIT App Inventor
+
+### 3. APK Installation
+- Build the app as an APK file
+- Install the APK on an Android device for offline use
 
 ## Future Improvements
 
