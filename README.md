@@ -44,7 +44,7 @@ The app translates the spoken input into the specified language using a chatbot-
 ![App Interface](screen_ui.png)
 
 ### Block Code
-![Block Code](blocks_ui.png)
+![Block Code](block_ui.png)
 
 ## Installation
 
