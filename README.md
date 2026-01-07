@@ -36,7 +36,15 @@ The app translates the spoken input into the specified language using a chatbot-
 1. Enter the target language in the TextBox  
 2. Click the **Speak** button  
 3. Speak the word or sentence  
-4. The app translates and speaks the output  
+4. The app translates and speaks the output
+
+## Screenshots
+
+### App Interface
+![App Interface](images/screen_ui.png)
+
+### Block Code
+![Block Code](images/blocks.png)
 
 ## Installation
 
