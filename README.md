@@ -69,6 +69,10 @@ This app can be tested using the following methods:
 ### 3. APK Installation
 - Build the app as an APK file
 - Install the APK on an Android device for offline use
+## Project Files
+
+- 📁 MIT App Inventor Project File:  
+  [Download .aia file](Translator_App.aia)
 
 ## Future Improvements
 
