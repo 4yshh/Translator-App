@@ -41,10 +41,10 @@ The app translates the spoken input into the specified language using a chatbot-
 ## Screenshots
 
 ### App Interface
-![App Interface](images/screen_ui.png)
+![App Interface](screen_ui.png)
 
 ### Block Code
-![Block Code](images/blocks.png)
+![Block Code](blocks.png)
 
 ## Installation
 
