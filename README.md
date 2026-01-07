@@ -1,6 +1,6 @@
 # Translator App (MIT App Inventor)
 
-A simple voice-based translator application developed using **MIT App Inventor**.
+A voice-based translator application developed using **MIT App Inventor**.
 
 ## Description
 
